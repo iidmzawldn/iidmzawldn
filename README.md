@@ -6,6 +6,18 @@
 
 ---
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full-Stack+Developer;Photographer+%26+Creator;Always+Learning+%26+Growing" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" alt="Coding Animation">
+</p>
+
+---
+
 ### 💡 About Me
 
 I'm a passionate full-stack developer and digital content creator. I enjoy crafting web applications, creating digital designs, and sharing knowledge. Whether it's coding, designing, or creating content, I strive to make an impact through my work.
