@@ -1,4 +1,5 @@
-<h1 align="center">👋 Hi, I'm IIDMZAWLDN</h1>
+<h1 align="center">👋 Hi, I'm IID MUIZ AWALUDIN</h1>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <p align="center">
   <b>Digital Craftsman (Developer / Creator)</b>
@@ -7,6 +8,7 @@
 ---
 
 ### 💡 About Me
+
 I'm a passionate full-stack developer and digital content creator. I enjoy crafting web applications, creating digital designs, and sharing knowledge. Whether it's coding, designing, or creating content, I strive to make an impact through my work.
 
 ---
@@ -30,6 +32,7 @@ I'm a passionate full-stack developer and digital content creator. I enjoy craft
 ### 🛠 Skills
 
 #### **Developer Skills**
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -44,11 +47,12 @@ I'm a passionate full-stack developer and digital content creator. I enjoy craft
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 
 #### **Hobbies**
-- 🎥 Digital Content Creator  
-- 🎨 Design  
-- 📸 Photography  
-- 📚 Learning & Reading  
-- ✍️ Writing  
+
+- 🎥 Digital Content Creator
+- 🎨 Design
+- 📸 Photography
+- 📚 Learning & Reading
+- ✍️ Writing
 
 ---
 
@@ -61,4 +65,5 @@ I'm a passionate full-stack developer and digital content creator. I enjoy craft
 ---
 
 ### 📫 Let's Connect!
+
 Feel free to reach out if you'd like to collaborate or just say hi. 😊
