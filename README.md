@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm [Your Name]!</h1>
+<h1 align="center">👋 Hi, I'm IIDMZAWLDN</h1>
 
 <p align="center">
   <b>Digital Craftsman (Developer / Creator)</b>
@@ -13,8 +13,17 @@ I'm a passionate full-stack developer and digital content creator. I enjoy craft
 
 ### 📊 Social Stats
 
-![Instagram](https://img.shields.io/badge/Instagram-23k-red?style=for-the-badge&logo=instagram)
-![TikTok](https://img.shields.io/badge/TikTok-15k-blue?style=for-the-badge&logo=tiktok)
+<p align="center">
+  <a href="https://instagram.com/iidmzawldn" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-23k-red?style=for-the-badge&logo=instagram" alt="Instagram">
+  </a>
+  <a href="https://tiktok.com/@iidmzawldn" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-15k-blue?style=for-the-badge&logo=tiktok" alt="TikTok">
+  </a>
+  <a href="https://youtube.com/iidmzawldn" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-10k-red?style=for-the-badge&logo=youtube" alt="YouTube">
+  </a>
+</p>
 
 ---
 
