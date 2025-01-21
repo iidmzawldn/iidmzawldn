@@ -4,14 +4,6 @@
   <b>Digital Craftsman (Developer / Creator)</b>
 </p>
 
----
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full-Stack+Developer;Photographer+%26+Creator;Always+Learning+%26+Growing" />
-  </a>
-</p>
-
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" alt="Coding Animation">
 </p>
